@@ -1,0 +1,26 @@
+Enteros:
+		long: 8 bytes, Sufijo L
+		int: 4 bytes de espacio para almacenamiento. Desde -2,147,483,648 hasta 2,147,483,647
+		short: 2 bytes		
+		byte: 1 byte, desde -128 hasta 127.
+
+Coma Flotante, decimales:
+		float: 4 bytes, aprox. 6 a 7 cifras, sufijo f (3.25f)
+		Double: 8 bytes, aprox 15 cifras
+		
+Char: 'a', entre comillas simples. 
+
+Boolean: true o false.
+
+Variable.
+
+Que es ? -> Espacio en la memoria del ordenador donde se almacenara un valor que podra cambiar durante 
+			la ejecucion del programa.
+			
+Por que utilizarlo -> Porque a la hora de crear un programa surge la necesidad de guardar datos 
+					  temporalmente que necesitaras utilizar en el futuro en ese mismo momento.
+
+Como se crea una variable -> Ej. int salario
+
+Iniciar una variable -> Salario = 2000;
+ 
